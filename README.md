@@ -1,0 +1,1 @@
+- nesse projeto eu irei fazer um site voltado para a area de vendas de produtos artesanais, como exemplos de bolsas de tecido estilizadas e únicas, contendo um layout contemporaneo e clean
